@@ -1,0 +1,46 @@
+# Logo
+logo_image_source: http://www.codeblocq.com/assets/projects/hexo-theme-anodyne/assets/anodyne.svg
+
+# Index Page
+index_banner_text: Jeanboy
+index_banner_text_secondary: Android / iOS / 前端 开发者。
+index_font_awesome_icon_css: fa fa-android
+
+# Header
+menu:
+  首页: /
+  归档: /archives
+  标签: /tags
+  分类: /categories
+  关于我: /about
+
+# Post
+default_post_title: Untitled
+default_post_icon: fa-file-text-o
+
+# Archive Date Format
+archive_date_format: YYYY.MM.DD
+archive_font_awesome_icon_css: fal fa-archive
+
+# About Widget
+about_widget_avatar_url: https://avatars2.githubusercontent.com/u/5093954?s=460&v=4
+about_widget_text: "嗨，我是曹建波（@jeanboy），一名来自中国的 Android / iOS / 前端 开发者。<br/><br/>现居北京，专注于移动应用开发，热爱开源，热爱分享。"
+
+
+# Comments.
+comments:
+  # Disqus comments
+  disqus_shortname: 
+
+# Google Analytics Tracking ID
+google_analytics:
+
+# Social Media Platforms
+social_platforms:
+  - url: https://github.com/jeanboydev
+    fa_icon: fa-github
+  - url: mailto:jeanboy@foxmail.com
+    fa_icon: fa-envelope
+
+# Footer about
+footer_about: "<a class=\"link dim white\" href=\"https://github.com/jeanboydev\">@Jeanboy</a> All right reserved | Design & Hexo"
