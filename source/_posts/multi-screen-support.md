@@ -171,12 +171,14 @@ draw9patch如图 ：
 
 
 ## 参考资料 ##
-[https://developer.android.com/guide/practices/screens_support.html?hl=zh-cn#DeclaringTabletLayouts](https://developer.android.com/guide/practices/screens_support.html?hl=zh-cn#DeclaringTabletLayouts)<br>
-[http://blog.jeswang.org/blog/2013/08/07/ppi-vs-dpi-you-shi-yao-qu-bie/](http://blog.jeswang.org/blog/2013/08/07/ppi-vs-dpi-you-shi-yao-qu-bie/)<br>
-[http://blog.csdn.net/zhaokaiqiang1992/article/details/45419023](http://blog.csdn.net/zhaokaiqiang1992/article/details/45419023)<br>
-[http://www.cnblogs.com/vanezkw/archive/2012/07/19/2599092.html](http://www.cnblogs.com/vanezkw/archive/2012/07/19/2599092.html)<br>
+- [https://developer.android.com/guide/practices/screens_support.html?hl=zh-cn#DeclaringTabletLayouts](https://developer.android.com/guide/practices/screens_support.html?hl=zh-cn#DeclaringTabletLayouts)
+- [http://blog.jeswang.org/blog/2013/08/07/ppi-vs-dpi-you-shi-yao-qu-bie/](http://blog.jeswang.org/blog/2013/08/07/ppi-vs-dpi-you-shi-yao-qu-bie/)
+- [http://blog.csdn.net/zhaokaiqiang1992/article/details/45419023](http://blog.csdn.net/zhaokaiqiang1992/article/details/45419023)
+- [http://www.cnblogs.com/vanezkw/archive/2012/07/19/2599092.html](http://www.cnblogs.com/vanezkw/archive/2012/07/19/2599092.html)
 
+## 扫一扫关注我的公众账号
 
+<img src="https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/resources/images/wechat/qrcode_for_gh_26eef6f9e7c1_258.jpg?raw=true" width=256 height=256 />
 
 [1]:https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/resources/images/android_screens_support/01.png?raw=true
 [2]:https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode/blob/master/resources/images/android_screens_support/02.png?raw=true
