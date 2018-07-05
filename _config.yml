@@ -89,6 +89,13 @@ sitemap:
 baidusitemap:
   path: baidusitemap.xml
 
+# 本地搜索
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
+
 ## Themes: https://hexo.io/themes/
 theme: anodyne
 

@@ -33,7 +33,9 @@ comments:
   disqus_shortname: 
 
 # Google Analytics Tracking ID
-google_analytics:
+google_analytics: UA-121861403-1
+# Baidu Analytics ID
+baidu_analytics: 63e553d8293bc74f1160b044738c6107
 
 # Social Media Platforms
 social_platforms:
@@ -43,4 +45,4 @@ social_platforms:
     fa_icon: fa-envelope
 
 # Footer about
-footer_about: "<a class=\"link dim white\" href=\"https://github.com/jeanboydev\">@Jeanboy</a> All right reserved | Design & Hexo"
+footer_about: "©2018 Jeanboy All Rights Reserved | Design & Hexo"
